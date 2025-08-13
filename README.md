@@ -1,0 +1,2 @@
+# Variational-Autoencoder-Based-Keyframe-Localization-for-Summarization-of-Long-Video
+We propose a video summarization framework using a modified VAE for preliminary key-frame extraction, refined via adaptive thresholding and histogram differentiation. Paired with BLIP-generated captions, it outperforms BLIP-based CNNC, HD, MBOF, MST, and ECR on MSVD and custom datasets in BLEU, F1, and key-frame uniqueness.
