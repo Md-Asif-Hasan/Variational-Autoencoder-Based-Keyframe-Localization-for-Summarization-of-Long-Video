@@ -1,8 +1,0 @@
-torch
-torchvision
-numpy
-scipy
-Pillow
-matplotlib
-# transformers  # optional (for BLIP)
-# sentence-transformers  # optional (for similarity)
