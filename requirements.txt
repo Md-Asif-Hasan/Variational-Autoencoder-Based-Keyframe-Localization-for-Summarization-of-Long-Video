@@ -1,0 +1,14 @@
+torch>=1.12.0
+torchvision>=0.13.0
+transformers>=4.20.0
+accelerate
+kagglehub
+numpy
+pandas
+opencv-python
+matplotlib
+tqdm
+nltk
+scikit-learn
+sentencepiece
+Pillow
